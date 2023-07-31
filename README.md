@@ -7,15 +7,15 @@ A React and Django web-app that display weather based on the city entered by the
 ##### Start typing a city name and autosuggestions will appear
 
 ###### Autosuggestions in Desktop
-![AutoSuggestions Desktop View](readme-images/autosuggestions-desktop-view.png)
+![AutoSuggestions Desktop View](readme-images/page_1.jpg)
 
 ###### Weather information
-![Desktop View of Weather data](readme-images/desktop-view.png)
+![Desktop View of Weather data](readme-images/page_2.jpg)
 
 ###### Respoonsive React App - works well in tablet and mobile views
 <div style="margin: 0 auto">
-    <img src="readme-images/autosuggestions-mobile-view.png" alt="AutoSuggestions in Mobile View"/>
-    <img src="readme-images/mobile-view.png" alt="Mobile view of weather data"/>
+    <img src="readme-images/page_3.jpg" alt="AutoSuggestions in Mobile View"/>
+    <img src="readme-images/page_4.jpg" alt="Mobile view of weather data"/>
 </div>
 
 ## Installation Instructions
