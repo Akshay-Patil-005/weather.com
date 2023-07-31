@@ -1,4 +1,4 @@
-const placesAPIKey = "AIzaSyBcpoIXwX7U8EdHMQBpCJERxmIUNHfVRCE"
+const placesAPIKey = "your api key"
 
 export default placesAPIKey
 
@@ -10,7 +10,7 @@ export default placesAPIKey
 //   return (
 //     <div>
 //       <PlacesAutocomplete
-//         apiKey="AIzaSyBcpoIXwX7U8EdHMQBpCJERxmIUNHfVRCE"
+//         apiKey="api key"
 //         // other props
 //       />
 //     </div>
